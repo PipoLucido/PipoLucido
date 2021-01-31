@@ -4,10 +4,10 @@
 <img src="https://pa1.narvii.com/6264/f8eacebcde65d171dc1967a4af061d4ce2eb2755_hq.gif">
 
 
-###Soy Rodrigo De Argentina Buenos Aires y amo el Desarrollo de Software! 
+### Soy Rodrigo De Argentina Buenos Aires y amo el Desarrollo de Software! 
 
 ---
-##👾 Coding && Deploy 👾
+## 👾 Coding && Deploy 👾
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -30,9 +30,9 @@
 
 --- 
 
-##☎️ CONTACTO 📬
+## ☎️ CONTACTO 📬
 - 1160183363
 - monntesdeocas@gmail.com
 
-###⚡Mi nombre es Rodrigo y ofrezco soluciones, no problemas.⚡
+### ⚡Mi nombre es Rodrigo y ofrezco soluciones, no problemas.⚡
 
