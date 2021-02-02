@@ -4,7 +4,7 @@
 <img src="https://pa1.narvii.com/6264/f8eacebcde65d171dc1967a4af061d4ce2eb2755_hq.gif">
 
 
-### Soy Rodrigo De Argentina Buenos Aires y amo el Desarrollo de Software! 
+### Soy Rodrigo De Buenos Aires y amo el Desarrollo de Software! 
 
 
 ## 👾 Coding && Deploy 👾
