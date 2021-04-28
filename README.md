@@ -4,7 +4,7 @@
 <img src="https://i0.wp.com/www.unpleyer.com/wp-content/uploads/2021/04/zelda.gif?fit=500%2C296&ssl=1">
 
 
-### Soy Rodrigo De Buenos Aires y amo el Desarrollo de Software! 
+### Soy Rodrigo De BsAs y amo el Desarrollo de Software! 
 
 
 ## 👾 Coding && Deploy 👾
