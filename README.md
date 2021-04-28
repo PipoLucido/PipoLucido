@@ -25,7 +25,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/200px-Laravel.svg.png" />
 
-<img align="left" alt="HTML5" width="26px" src="https://i0.wp.com/www.pcihispano.com/contenido/uploads/2016/10/AWS_Cloud.png?fit=256%2C256&ssl=1" />
+<img align="left" alt="HTML5" width="26px" src="https://www.acatlan.unam.mx/AWS/img/aws-logo.png" />
 <br/>
 
 
