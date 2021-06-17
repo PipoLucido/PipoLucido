@@ -32,6 +32,8 @@
 ## ☎️ CONTACTO 📬
 - 1160183363
 - monntesdeocas@gmail.com
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rodrigo-pereyra-gabriel/)
+
 
 ### ⚡Mi nombre es Rodrigo y ofrezco soluciones, no problemas.⚡
 
