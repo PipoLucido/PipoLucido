@@ -1,7 +1,7 @@
 ### Buenas! 😬😬 👋 
 
 
-<img src="https://i0.wp.com/www.unpleyer.com/wp-content/uploads/2021/04/zelda.gif?fit=500%2C296&ssl=1">
+<img src="https://twitter.com/i/status/1444119196074381315">
 
 
 ### Soy Rodrigo De BsAs y amo el Desarrollo de Software! 
