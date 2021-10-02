@@ -1,7 +1,7 @@
 ### Buenas! 😬😬 👋 
 
 
-<img src="https://twitter.com/i/status/1444119196074381315">
+<img src="https://firebasestorage.googleapis.com/v0/b/imgperfil.appspot.com/o/unnamed_2_2.gif?alt=media&token=7a7c427e-3fdc-436a-8d77-e11657a94bd5">
 
 
 ### Soy Rodrigo De BsAs y amo el Desarrollo de Software! 
