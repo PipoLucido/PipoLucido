@@ -24,7 +24,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/200px-Laravel.svg.png" />
-
+<img align="left" alt="HTML5" width="26px" src="https://static-00.iconduck.com/assets.00/serverless-icon-512x407-neft7ola.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
@@ -32,9 +32,6 @@
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/docker-3050921-2538289.png" />
-
-<img align="left" alt="HTML5" width="26px" src="https://static-00.iconduck.com/assets.00/serverless-icon-512x407-neft7ola.png" />
-
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.freepik.com/512/5969/5969347.png" />
 
