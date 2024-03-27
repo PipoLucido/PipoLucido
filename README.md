@@ -33,7 +33,7 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/docker-3050921-2538289.png" />
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/docker-3050921-2538289.png" />
+<img align="left" alt="HTML5" width="26px" src="https://static-00.iconduck.com/assets.00/serverless-icon-512x407-neft7ola.png" />
 
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.freepik.com/512/5969/5969347.png" />
