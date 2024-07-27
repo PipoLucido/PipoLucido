@@ -1,4 +1,4 @@
-### Buenas! 😬😬 👋 
+### Buenas!👋 
 
 
 <img src="https://i0.wp.com/www.unpleyer.com/wp-content/uploads/2021/04/zelda.gif?fit=500%2C296&ssl=1">
